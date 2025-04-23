@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://astrofavor.github.io/zodiac-compatibility-calculator/sitemap.xml
